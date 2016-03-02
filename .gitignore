@@ -37,3 +37,11 @@ captures/
 .idea/tasks.xml
 .idea/vcs.xml
 .idea/workspace.xml
+
+# Android Studio 1.0
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build

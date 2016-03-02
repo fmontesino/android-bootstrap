@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Bootstrap</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="txt_please_wait">Por favor, espere...</string>
+    <string name="txt_confirm_exit">Pulsa \"atrás\" otra vez para salir</string>
+</resources>
